@@ -1,1 +1,1 @@
-# Chess-Board-Uni-Mini-Porject
+# Chess-Board-Uni-Mini-Project
