@@ -1,4 +1,4 @@
-# Chess-Board-Uni-Mini-Project
+# Chess-Board-Uni-Project
 
 This was an assessed project I did at university to calculate the probability of a disk landing on a chess board covering more than one colour where a square's length on the board is the diameter of the disk.
 
