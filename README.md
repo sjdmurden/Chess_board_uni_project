@@ -1,4 +1,7 @@
 # Chess_board_uni_project
+ ```diff
+Languages used: Python, LaTeX
+ ```
 
 This project aimed to calculate the probability of a disk landing on a chess board and covering more than one colour where a square's length on the board is the diameter of the disk.
 
